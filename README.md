@@ -27,8 +27,6 @@ An AI-powered sentiment analysis web application that uses NLP and Machine Learn
 <br><br>
 <img src="assets/image-1.png" width="800">
 
-![Web Screenshot 1](assets/image.png)
-![Web Screenshots 2](assets/image-1.png)
 
 ---
 
